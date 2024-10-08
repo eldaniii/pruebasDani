@@ -1,3 +1,3 @@
 <?php
-        echo "Modificación para probar el pull";
+        echo "Modificación para probar el POST pull";
 ?>
